@@ -1,11 +1,11 @@
 # Site settings
 author: Nadia Fernandez Alonso
-title: 
+title: To be a web developer
 header-img: img/home-bg.png
 email: nadiafa581@gmail.com
 copyright_name: Nadia Fernandez Alonso
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Nadiafa
