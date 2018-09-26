@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The big decision"
+title:      "Decisions!"
 date:       2018-09-26 05:35:06 -0400
 permalink:  the_big_decision
 ---
