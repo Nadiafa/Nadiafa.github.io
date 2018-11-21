@@ -2,7 +2,7 @@
 layout: post
 title:      "Learning Process"
 date:       2018-11-21 10:12:35 -0500
-permalink:  learning_sinatra
+permalink:  learning_process
 ---
 
 
