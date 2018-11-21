@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Learning Sinatra"
-date:       2018-11-21 15:12:34 +0000
+title:      "Learning Process"
+date:       2018-11-21 10:12:35 -0500
 permalink:  learning_sinatra
 ---
 
